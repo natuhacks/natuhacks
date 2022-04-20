@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natuhacks
-- 👀 I’m interested in ... hacking .... hehehe..
+- 👀 I’m interested/obsessed in ... hacking .... 
 - 🌱 I’m currently learning ... CyberSec
 - 💞️ I’m looking to collaborate on ... CyberSecurity research
 - 📫 How to reach me ...(natu@gmail.com)
